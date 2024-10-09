@@ -1,0 +1,3 @@
+ID: 1, Nome: Mouse sem fio , Descricao: Recarregavel, Estoque: 234
+ID: 2, Nome: Carro, Descricao: Eletrico, Estoque: 240
+ID: 3, Nome: Goku, Descricao: Ball Z, Estoque: 28
